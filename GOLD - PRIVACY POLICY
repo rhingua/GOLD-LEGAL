@@ -1,0 +1,39 @@
+GOLD - PRIVACY POLICY
+Last updated: November 11, 2026
+
+This Privacy Policy explains how the GOLD app ("the App") handles information. In short: we do not collect your personal data.
+
+1. INFORMATION WE COLLECT
+None. The App has no accounts, no sign-up, no analytics, no advertising, and no trackers. We do not collect, store or receive your name, email, location, contacts, or any other personal information.
+
+2. INFORMATION STORED ON YOUR DEVICE
+To work smoothly, the App saves a few settings only on your phone:
+- your selected currency and weight unit,
+- the last downloaded gold/silver prices and exchange rates (so something is shown if you are offline),
+- any manual price you type.
+The values you enter for calculations (weight, purity) are not sent anywhere. This data stays on your device and is removed when you clear the App's data or uninstall it. The App does not use cloud backup.
+
+3. INTERNET ACCESS
+The App requests the INTERNET permission only to fetch current gold and silver prices and currency exchange rates from these third-party services:
+- gold-api.com (gold and silver spot prices)
+- open.er-api.com (currency exchange rates)
+Your calculation inputs are not included in these requests. As with any internet connection, these services can technically see your device's IP address and the time of the request. We do not control their data practices; please see their own privacy policies for details.
+
+4. PERMISSIONS
+The App requests no permissions other than INTERNET. It does not access your camera, microphone, location, storage, contacts or other personal data.
+
+5. CHILDREN
+The App does not knowingly collect any personal information from anyone, including children.
+
+6. DATA SHARING
+We do not sell, share or transfer personal data, because we do not collect any.
+
+7. SECURITY
+Price requests are made over secure HTTPS connections. Data saved on your device is protected by your device's own security.
+
+8. CHANGES TO THIS POLICY
+We may update this policy from time to time. The "Last updated" date shows the latest version. If we ever change how the App handles data, this policy will be updated before the change is released.
+
+9. CONTACT
+Developer: calv.skr
+Email: rhinguana@proton.me
